@@ -35,3 +35,6 @@ hCaptcha is a privacy-focused drop-in replacement for reCAPTCHA.
 <br>
 You don't have to update your callbacks or tag attributes. hCaptcha is API-compatible with reCAPTCHA.<br>
 -hCaptcha's documentation
+
+## More Details
+https://www.opensource-socialnetwork.org/component/view/6623
