@@ -28,6 +28,10 @@ This component is using the [OSSN v4 license](https://www.opensource-socialnetwo
 4.) Fill in the proper Account Secret Key and Site Key
 
 ## What is hCaptcha?
-hCaptcha is a privacy-focused drop-in replacement for reCAPTCHA. Need support? DMs are open.
+hCaptcha is a privacy-focused drop-in replacement for reCAPTCHA. 
 <br>
 -Twitter Account of hCaptcha
+<br>
+<br>
+You don't have to update your callbacks or tag attributes. hCaptcha is API-compatible with reCAPTCHA.
+-hCaptcha's documentation
