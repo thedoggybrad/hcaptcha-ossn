@@ -8,7 +8,7 @@ Add a hCAPTCHA on forms, a modified ReCaptcha v3 component by Jonathan Goncalves
 This component is using the [OSSN v4 license](https://www.opensource-socialnetwork.org/licence/v4.0.html)
 
 ## Requires
-✓OSSN Version 5.6 or higher
+✓OSSN Version 5.6 or higher (tested up to 7.0)
 <br>
 ✓OSSN Components Captcha, ReCaptcha and ReCaptcha3 disabled
 
@@ -17,3 +17,17 @@ This component is using the [OSSN v4 license](https://www.opensource-socialnetwo
 ✓Reset Password Page
 <br>
 ✓Signup/Register Page
+
+## How to use this component?
+1.) https://dashboard.hcaptcha.com/login and make sure to make your account and find your Account Secret Key on your Account page link by clicking your profile picture and save the generated Account Secret Key.
+<br>
+2.) Click the sites link and add your domain, make sure to also save the Site Key.
+<br>
+3.) Go to /administrator of your site and click the Configure dropdown menu and click "hcaptcha".
+<br>
+4.) Fill in the proper Account Secret Key and Site Key
+
+## What is hCaptcha?
+hCaptcha is a privacy-focused drop-in replacement for reCAPTCHA. Need support? DMs are open.
+<br>
+-Twitter Account of hCaptcha
