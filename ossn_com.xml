@@ -6,7 +6,7 @@
     <description>Add a hCAPTCHA on forms, a modified ReCaptcha v2 component by Jonathan Goncalves</description>
     <license>OSSN LICENSE v4</license>
     <author_url>http://github.com/thedoggybrad</author_url>
-    <version>1.1</version>
+    <version>1.2</version>
 	<requires>
 		<type>ossn_version</type>
 		<version>5.6</version>
