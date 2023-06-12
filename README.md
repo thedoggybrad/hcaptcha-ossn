@@ -2,7 +2,7 @@
 Add a hCAPTCHA on forms, a modified ReCaptcha v2 component by Jonathan Goncalves
 
 ## Download Link (Github)
-[Download Here](https://github.com/thedoggybrad/hcaptcha-ossn/releases/download/1.2/hcaptcha.zip)
+[Download Here](https://github.com/thedoggybrad/hcaptcha-ossn/releases/download/1.3/hcaptcha.zip)
 
 ## License
 This component is using the [OSSN v4 license](https://www.opensource-socialnetwork.org/licence/v4.0.html)
@@ -11,6 +11,11 @@ This component is using the [OSSN v4 license](https://www.opensource-socialnetwo
 ✓OSSN Version 5.6 or higher (tested up to 7.0)
 <br>
 ✓OSSN Components Captcha, ReCaptcha and ReCaptcha3 disabled
+
+## Currently Available Languages
+✓English (en)
+<br>
+✓German (de)
 
 
 ## Where it will add the hCaptcha?
