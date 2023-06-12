@@ -13,9 +13,9 @@ This component is using the [OSSN v4 license](https://www.opensource-socialnetwo
 ✓OSSN Components Captcha, ReCaptcha and ReCaptcha3 disabled
 
 ## Currently Translated Languages
-✓English (en)
+✓English (en) by TheDoggyBrad
 <br>
-✓German (de)
+✓German (de) by Dominik L
 
 
 ## Where it will add the hCaptcha?
