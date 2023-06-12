@@ -12,7 +12,7 @@ This component is using the [OSSN v4 license](https://www.opensource-socialnetwo
 <br>
 ✓OSSN Components Captcha, ReCaptcha and ReCaptcha3 disabled
 
-## Currently Available Languages
+## Currently Translated Languages
 ✓English (en)
 <br>
 ✓German (de)
