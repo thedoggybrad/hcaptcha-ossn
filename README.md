@@ -19,7 +19,7 @@ This component is using the [OSSN v4 license](https://www.opensource-socialnetwo
 ✓Signup/Register Page
 
 ## How to use this component?
-1.) https://dashboard.hcaptcha.com/login and make sure to make your account and find your Account Secret Key on your Account page link by clicking your profile picture and save the generated Account Secret Key.
+1.) https://dashboard.hcaptcha.com/login and make sure to make your account and find your Account Secret Key on your Account Settings page link by clicking your profile picture and save the generated Account Secret Key.
 <br>
 2.) Click the sites link and add your domain, make sure to also save the Site Key.
 <br>
